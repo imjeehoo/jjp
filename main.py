@@ -7,5 +7,5 @@ class Feature:
 
 
 print("Hello World")
-print("Feature A")
-print("Feature B")
+Feature("A").print()
+Feature("B").print()
